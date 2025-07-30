@@ -68,17 +68,3 @@ For any queries, feel free to connect:
 GitHub: [@Sakshi9335](https://github.com/Sakshi9335)
 
 
-```
-
----
-
-### ✅ Where to paste it:
-
-1. Go to your GitHub repo: **shukla-demo**.
-2. Click **Add file** > **Create new file**.
-3. Type the file name: `README.md`.
-4. Paste the above content.
-5. Scroll down, click **Commit new file**.
-
-Done! Your repo will now have a professional README. Let me know if you want to **add a project logo** or any **specific code** details.
-```
